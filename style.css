@@ -1,0 +1,14 @@
+.title{
+    background: rgb(0, 255, 76);
+    padding: 60px;
+    font-size: 30px ;
+text-align: center;
+}
+.img{
+    background:url(я.jpg);
+    width: 700px;
+    height: 650px;
+    background-size: cover ;
+    margin:0 auto ;
+}
+.text{
